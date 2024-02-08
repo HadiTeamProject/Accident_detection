@@ -14,6 +14,7 @@ Detect road accidents on drone camera using Raspberry pi and create report messa
 
 
 ### Notes
+<li> download the tensorflow model from here https://drive.google.com/file/d/11wyKCXGSX7orl4JNiAVMNJs53yI0B2Sl/view?usp=drive_link </li>
 <li>use Thonny IDE </li> 
 <li>LoRa address is 2</li>
 <li>LoRa network is 4</li>
