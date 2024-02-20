@@ -17,6 +17,6 @@ Detect road accidents on drone camera using Raspberry pi and create report messa
 <li> download the tensorflow model from here https://drive.google.com/file/d/1AVqi1WPsBxj3Xhe6UDyP81tyq484xVzX/view?usp=drive_link </li>
 <li>use Thonny IDE </li> 
 <li>LoRa address is 2</li>
-<li>LoRa network is 4</li>
+<li>LoRa network is 2</li>
 <li>LoRa band is 915 MHz</li>
 <li>LoRa braud rate is 9600 </li>
