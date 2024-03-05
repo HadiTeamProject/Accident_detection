@@ -12,6 +12,13 @@ Detect road accidents on drone camera using Raspberry pi and create report messa
 ## Circuit Diagram
 <img width="371" alt="image" src="https://github.com/HadiTeamProject/Accident_detection/assets/155265586/423ec904-6ea8-4820-b90b-500ab99cb420">
 
+## Download Libraries
+ 
+```bash
+pip install opencv-python
+pip install tensorflow==2.13.1
+pip install tflite_support==0.4.3
+```
 
 ### Notes
 <li> download the tensorflow model from here 
