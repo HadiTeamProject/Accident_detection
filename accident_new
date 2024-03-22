@@ -13,8 +13,7 @@ def startapplication():
     cmsg=""
     # Set LoRa variable
     lora = serial.Serial(port='/dev/serial0',baudrate=9600,timeout=1)
-    recive='+RCV'
-    #recive = lora.readline().decode().strip()
+    recive = lora.readline().decode().strip()
     if recive.startswith('+RCV'):
         
         #capture camera videos
